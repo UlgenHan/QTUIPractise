@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/BasicQTPractise/">
+    <file alias="Main.qml">D:/Repository/QTUIPractise/practise-1/BasicQTPractise/Main.qml</file>
+  </qresource>
+</RCC>
+

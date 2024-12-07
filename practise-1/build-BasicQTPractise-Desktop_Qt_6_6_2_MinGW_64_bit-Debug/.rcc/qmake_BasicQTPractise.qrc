@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/BasicQTPractise">
+    <file alias="qmldir">D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/BasicQTPractise/qmldir</file>
+  </qresource>
+</RCC>
+

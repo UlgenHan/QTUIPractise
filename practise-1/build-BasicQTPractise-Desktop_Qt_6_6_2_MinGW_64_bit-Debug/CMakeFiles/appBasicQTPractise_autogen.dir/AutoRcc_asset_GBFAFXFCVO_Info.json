@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appBasicQTPractise_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Repository/QTUIPractise/practise-1/BasicQTPractise",
+	"CMAKE_SOURCE_DIR" : "D:/Repository/QTUIPractise/practise-1/BasicQTPractise",
+	"INCLUDE_DIR" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appBasicQTPractise_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/laura-jones.jpg",
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/challenges.jpg",
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/related-2.jpg",
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/related-3.jpg",
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/post-img.jpg",
+		"D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/images/related-1.jpg"
+	],
+	"LOCK_FILE" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/appBasicQTPractise_autogen.dir/AutoRcc_asset_GBFAFXFCVO_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "asset" ],
+	"OUTPUT_CHECKSUM" : "GBFAFXFCVO",
+	"OUTPUT_NAME" : "qrc_asset.cpp",
+	"RCC_EXECUTABLE" : "D:/Programs/QT/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/appBasicQTPractise_autogen.dir/AutoRcc_asset_GBFAFXFCVO_Used.txt",
+	"SOURCE" : "D:/Repository/QTUIPractise/practise-1/BasicQTPractise/assets/asset.qrc",
+	"VERBOSITY" : 0
+}

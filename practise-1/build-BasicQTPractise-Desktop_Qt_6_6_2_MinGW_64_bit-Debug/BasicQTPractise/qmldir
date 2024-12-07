@@ -1,0 +1,5 @@
+module BasicQTPractise
+typeinfo appBasicQTPractise.qmltypes
+prefer :/BasicQTPractise/
+Main 1.0 Main.qml
+

@@ -1,0 +1,12 @@
+--bare
+-I
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug
+-I
+D:/Programs/QT/6.6.2/mingw_64/./qml
+--resource
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmake_BasicQTPractise.qrc
+--resource
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/appBasicQTPractise_raw_qml_0.qrc
+D:/Repository/QTUIPractise/practise-1/BasicQTPractise/Main.qml
+--json
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/appBasicQTPractise_qmllint.json

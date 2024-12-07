@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/challenges.jpg</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/content.txt</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/index.html</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/laura-jones.jpg</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/post-img.jpg</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/related-1.jpg</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/related-2.jpg</file>
+        <file>../../../../WebUIPractice/FundamentalHTMLPractise/practise-2/related-3.jpg</file>
+    </qresource>
+</RCC>

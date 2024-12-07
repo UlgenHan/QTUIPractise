@@ -1,0 +1,14 @@
+-rootPath
+D:/Repository/QTUIPractise/practise-1/BasicQTPractise
+-cmake-output
+-output-file
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appBasicQTPractise.cmake
+-importPath
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/BasicQTPractise
+-importPath
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug
+-importPath
+D:/Programs/QT/6.6.2/mingw_64/./qml
+-qrcFiles
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/qmake_BasicQTPractise.qrc
+D:/Repository/QTUIPractise/practise-1/build-BasicQTPractise-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/.rcc/appBasicQTPractise_raw_qml_0.qrc
